@@ -1,3 +1,3 @@
-Source files for my article about setting up a LAMP environment in Vagrant:
+#Setting the LEMP server using Vagrant
 
-https://www.ewaldvanderveken.dev/setting-up-a-lamp-development-environment-in-vagrant/ 
+Reference & Thanks to: https://github.com/eekes/blog-vagrant-1.git
